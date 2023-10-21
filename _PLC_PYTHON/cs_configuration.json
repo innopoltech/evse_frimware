@@ -1,0 +1,11 @@
+{
+  "number_of_evses": 1,
+  "parameters": [
+	{"evse_id": "DE*SWT*E123456789",
+    "network_interface": "Ethernet"
+	}
+  ],
+  "client_base_addr" : "http://192.168.0.201:8001/BASE",
+  "server_data_link_addr" : "192.168.0.77",
+  "server_data_link_port" : 8002
+}

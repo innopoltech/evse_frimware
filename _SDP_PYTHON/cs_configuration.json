@@ -1,0 +1,10 @@
+{
+  "number_of_evses": 1,
+  "parameters": [
+	{
+    "network_interface": "Ethernet",
+    "secc_addr" : "fe80::3ce3:4a6c:3c82:d516",
+    "secc_port" : 64473
+	}
+  ]
+}

@@ -1,0 +1,118 @@
+Date : 2023-10-09 19:30:24
+Directory : c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON
+Total : 70 files,  5803 codes, 11308 comments, 3310 blanks, all 20421 lines
+
+Languages
++--------------+------------+------------+------------+------------+------------+
+| language     | files      | code       | comment    | blank      | total      |
++--------------+------------+------------+------------+------------+------------+
+| Python       |         64 |      5,427 |     11,147 |      3,204 |     19,778 |
+| Shell Script |          1 |        278 |        158 |         84 |        520 |
+| YAML         |          3 |         74 |          3 |         20 |         97 |
+| JSON         |          1 |         18 |          0 |          1 |         19 |
+| Java         |          1 |          6 |          0 |          1 |          7 |
++--------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                     | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                        |         70 |      5,803 |     11,308 |      3,310 |     20,421 |
+| . (Files)                                                                                                                                |          6 |        516 |        307 |         83 |        906 |
+| .github                                                                                                                                  |          3 |         74 |          3 |         20 |         97 |
+| .github\actions                                                                                                                          |          1 |         12 |          0 |          2 |         14 |
+| .github\actions\setup-python-build-env                                                                                                   |          1 |         12 |          0 |          2 |         14 |
+| .github\workflows                                                                                                                        |          2 |         62 |          3 |         18 |         83 |
+| iso15118_l                                                                                                                               |         61 |      5,213 |     10,998 |      3,207 |     19,418 |
+| iso15118_l (Files)                                                                                                                       |          1 |          1 |          0 |          1 |          2 |
+| iso15118_l\OCPP                                                                                                                          |          2 |         40 |         18 |         14 |         72 |
+| iso15118_l\controller                                                                                                                    |          4 |        827 |        975 |        272 |      2,074 |
+| iso15118_l\everest                                                                                                                       |          3 |          0 |         98 |         23 |        121 |
+| iso15118_l\shared                                                                                                                        |         42 |      2,695 |      5,626 |      2,036 |     10,357 |
+| iso15118_l\shared (Files)                                                                                                                |         13 |        884 |      1,746 |        480 |      3,110 |
+| iso15118_l\shared\messages                                                                                                               |         28 |      1,533 |      3,722 |      1,472 |      6,727 |
+| iso15118_l\shared\messages (Files)                                                                                                       |          8 |        760 |        359 |        370 |      1,489 |
+| iso15118_l\shared\messages\din_spec                                                                                                      |          6 |          0 |        913 |        243 |      1,156 |
+| iso15118_l\shared\messages\iso15118_2                                                                                                    |          6 |        773 |        280 |        286 |      1,339 |
+| iso15118_l\shared\messages\iso15118_20                                                                                                   |          8 |          0 |      2,170 |        573 |      2,743 |
+| iso15118_l\shared\pki                                                                                                                    |          1 |        278 |        158 |         84 |        520 |
+| iso15118_l\states                                                                                                                        |          6 |      1,585 |      4,041 |        801 |      6,427 |
+| iso15118_l\transport                                                                                                                     |          3 |         65 |        240 |         60 |        365 |
++------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------------------------------------------+--------------+------------+------------+------------+------------+
+| filename                                                                                                                                 | language     | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------------------------+--------------+------------+------------+------------+------------+
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\.github\actions\setup-python-build-env\action.yml         | YAML         |         12 |          0 |          2 |         14 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\.github\workflows\publish-to-pypi.yml                     | YAML         |         31 |          0 |          6 |         37 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\.github\workflows\pull-request.yml                        | YAML         |         31 |          3 |         12 |         46 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\Main.py                                                   | Python       |         38 |          3 |         19 |         60 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\MyClass.java                                              | Java         |          6 |          0 |          1 |          7 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\comm_session_handler.py                                   | Python       |        161 |         49 |         37 |        247 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\cs_configuration.json                                     | JSON         |         18 |          0 |          1 |         19 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\failed_responses.py                                       | Python       |        235 |        236 |          5 |        476 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\OCPP\__init__.py                               | Python       |          0 |          0 |          1 |          1 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\OCPP\ocpp_template.py                          | Python       |         40 |         18 |         13 |         71 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\__init__.py                                    | Python       |          1 |          0 |          1 |          2 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\controller\__init__.py                         | Python       |          0 |          0 |          1 |          1 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\controller\del_simulator.py                    | Python       |        336 |        563 |        133 |      1,032 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\controller\interface.py                        | Python       |        217 |        265 |         63 |        545 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\controller\v2g_interface.py                    | Python       |        274 |        147 |         75 |        496 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\everest\__init__.py                            | Python       |          0 |         20 |          9 |         29 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\everest\charger_state.py                       | Python       |          0 |         62 |          7 |         69 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\everest\context.py                             | Python       |          0 |         16 |          7 |         23 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\__init__.py                             | Python       |          0 |          0 |          1 |          1 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\comm_session.py                         | Python       |        269 |         73 |         38 |        380 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\exceptions.py                           | Python       |         73 |         62 |         71 |        206 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\exi_codec.py                            | Python       |        145 |         55 |         35 |        235 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\exificient_exi_codec.py                 | Python       |         33 |         10 |         14 |         57 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\iexi_codec.py                           | Python       |         11 |          6 |          5 |         22 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\__init__.py                    | Python       |          6 |          6 |          6 |         18 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\app_protocol.py                | Python       |         23 |          5 |         13 |         41 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\datatypes.py                   | Python       |        183 |        207 |        191 |        581 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\din_spec\__init__.py           | Python       |          0 |          0 |          1 |          1 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\din_spec\body.py               | Python       |          0 |        485 |        101 |        586 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\din_spec\datatypes.py          | Python       |          0 |        330 |        115 |        445 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\din_spec\header.py             | Python       |          0 |         41 |         10 |         51 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\din_spec\msgdef.py             | Python       |          0 |         23 |          9 |         32 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\din_spec\timeouts.py           | Python       |          0 |         34 |          7 |         41 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\enums.py                       | Python       |        196 |         49 |         50 |        295 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_20\__init__.py        | Python       |          0 |          0 |          1 |          1 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_20\ac.py              | Python       |          0 |        438 |         62 |        500 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_20\acd_p.py           | Python       |          0 |         12 |          2 |         14 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_20\common_messages.py | Python       |          0 |      1,007 |        333 |      1,340 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_20\common_types.py    | Python       |          0 |        286 |         75 |        361 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_20\dc.py              | Python       |          0 |        365 |         88 |        453 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_20\timeouts.py        | Python       |          0 |         50 |         10 |         60 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_20\wpt.py             | Python       |          0 |         12 |          2 |         14 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_2\__init__.py         | Python       |          0 |          0 |          1 |          1 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_2\body.py             | Python       |        418 |        173 |        130 |        721 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_2\datatypes.py        | Python       |        306 |         93 |        139 |        538 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_2\header.py           | Python       |         19 |          7 |          6 |         32 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_2\msgdef.py           | Python       |          9 |          1 |          6 |         16 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\iso15118_2\timeouts.py         | Python       |         21 |          6 |          4 |         31 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\sdp.py                         | Python       |        169 |         20 |         47 |        236 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\timeouts.py                    | Python       |          7 |          4 |          4 |         15 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\v2gtp.py                       | Python       |        140 |         28 |         31 |        199 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\messages\xmldsig.py                     | Python       |         36 |         40 |         28 |        104 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\network.py                              | Python       |         56 |         38 |         23 |        117 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\notifications.py                        | Python       |         27 |         12 |         15 |         54 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\pki\create_certs.sh                     | Shell Script |        278 |        158 |         84 |        520 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\security.py                             | Python       |          3 |      1,327 |        210 |      1,540 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\settings.py                             | Python       |         22 |          0 |         13 |         35 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\states.py                               | Python       |        180 |        107 |         29 |        316 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\utils.py                                | Python       |         33 |         50 |         18 |        101 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\shared\validators.py                           | Python       |         32 |          6 |          8 |         46 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\states\__init__.py                             | Python       |          0 |          0 |          1 |          1 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\states\din_spec_states.py                      | Python       |          0 |      1,021 |        175 |      1,196 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\states\iso15118_20_states.py                   | Python       |          0 |      1,551 |        234 |      1,785 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\states\iso15118_2_states.py                    | Python       |      1,337 |      1,237 |        341 |      2,915 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\states\sap_states.py                           | Python       |         82 |         51 |         28 |        161 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\states\secc_state.py                           | Python       |        166 |        181 |         22 |        369 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\transport\__init__.py                          | Python       |          0 |          0 |          1 |          1 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\transport\tcp_server.py                        | Python       |         65 |         41 |         29 |        135 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\iso15118_l\transport\udp_server.py                        | Python       |          0 |        199 |         30 |        229 |
+| c:\Users\vnekt\Desktop\IP_Daleko_and_Nadolgo\ElectroCar\ElectroCar\_V2G_PYTHON\secc_settings.py                                          | Python       |         58 |         19 |         20 |         97 |
+| Total                                                                                                                                    |              |      5,803 |     11,308 |      3,310 |     20,421 |
++------------------------------------------------------------------------------------------------------------------------------------------+--------------+------------+------------+------------+------------+
